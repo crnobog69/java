@@ -5,7 +5,7 @@ Dir.glob('**/*.java').each do |source_file|
     puts "Компајлирам #{source_file}..."
     
     # Користи javac за компајлирање
-    system("javac -d out \"#{source_file}\"")
+    system("javac -encoding UTF-8 -d out \"#{source_file}\"")
     
     if $?.exitstatus != 0
       puts "Грешка при компајлирању фајла: #{source_file}"

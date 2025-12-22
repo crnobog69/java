@@ -1,7 +1,5 @@
 ﻿# <p align="center">Задаци из програмског језика Java</p>
 
-### <p align="center">Школска година - 2024/25</p>
-
 ---
 
 > [!NOTE]
@@ -28,27 +26,21 @@ java -cp out Main
 
 - #### Ruby
 
-``ash
+``bash
 ruby compile.rb
 ``
 
 ### Java у Markdown
 
-``ash
+``bash
 ruby jtomd.rb
 ``
 
 ### Пребројавање редова, карактера и .java датотека
 
-``ash
+``bash
 ruby cbrojac.rb
 ``
-
----
-
-### Форматирање
-
-Овде можете додати правила за google-java-format или spotless ако желите да ускладите стил.
 
 ---
 
@@ -65,6 +57,6 @@ java -version
 **Компајлирање и покретање једног .java фајла:**
 
 ```bash
-javac Example1.java -d out
-java -cp out Example1
+javac Datoteka1.java -d out
+java -cp out Datoteka1
 ```
