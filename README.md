@@ -48,8 +48,8 @@ ruby compile.rb
 ### Java у Markdown
 
 ```bash
-ru`by jtomd.rb
-``
+ruby jtomd.rb
+```
 
 ### Пребројавање редова, карактера и .java датотека
 
