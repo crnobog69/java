@@ -4,6 +4,8 @@
 
 > [!NOTE]
 > Ово није озбиљан пројекат.
+> Прво покрените `ruby compile.rb`
+> затим `run.ps1 ime_datoteke`
 
 ---
 
