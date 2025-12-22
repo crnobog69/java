@@ -1,4 +1,4 @@
-﻿# <p align="center">Задаци из програмског језика Java</p>
+﻿# <p align="center">Програмски језик `Java`</p>
 
 ---
 
@@ -33,11 +33,13 @@ ruby compile.rb
 Покрените компајлирану класу без куцања дугачких команди:
 
 **Windows:**
+
 ```powershell
 .\run Datoteka1
 ```
 
 **Linux/Bash:**
+
 ```bash
 ./run.sh Datoteka1
 ```
