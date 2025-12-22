@@ -15,47 +15,47 @@
 
 ### Како покренути пример
 
-``bash
+```bash
 javac -d out src/Main.java
 java -cp out Main
-``
+```
 
 ---
 
 ### Масовно компајлирање
 
-``bash
+```bash
 ruby compile.rb
-``
+```
 
 ### Лако покретање
 
 Покрените компајлирану класу без куцања дугачких команди:
 
 **Windows:**
-``powershell
+```powershell
 .\run Datoteka1
-``
+```
 
 **Linux/Bash:**
-``bash
+```bash
 ./run.sh Datoteka1
-``
+```
 
 > [!TIP]
 > Не морате наводити путању до фајла или екстензију `.java`/`.class`. Само наведите име класе (нпр. `Datoteka1`), а скрипта ће је пронаћи у `out` директоријуму.
 
 ### Java у Markdown
 
-``bash
-ruby jtomd.rb
+```bash
+ru`by jtomd.rb
 ``
 
 ### Пребројавање редова, карактера и .java датотека
 
-``bash
+```bash
 ruby cbrojac.rb
-``
+```
 
 ---
 
