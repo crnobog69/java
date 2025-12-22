@@ -59,7 +59,7 @@ ruby cbrojac.rb
 
 ---
 
-### Raspberry Pi 5 (ARM64) — инсталација и брзи тест
+### Raspberry Pi 5 (ARM64) / Debian / Ubuntu / Pop!_OS
 
 **Инсталирање JDK:**
 
