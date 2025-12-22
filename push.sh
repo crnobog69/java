@@ -1,6 +1,10 @@
 #!/bin/bash
 
-ruby ctomd.rb
+ruby compile.rb
+
+ruby jtomd.rb
+
+ruby cbrojac.rb
 
 # Додај све промене
 git add .
