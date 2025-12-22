@@ -15,7 +15,7 @@
 
 ### Како покренути пример
 
-``ash
+``bash
 javac -d out src/Main.java
 java -cp out Main
 ``
