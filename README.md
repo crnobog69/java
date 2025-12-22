@@ -60,22 +60,3 @@ ruby jtomd.rb
 ```bash
 ruby cbrojac.rb
 ```
-
----
-
-### Raspberry Pi 5 (ARM64) / Debian / Ubuntu / Pop!_OS
-
-**Инсталирање JDK:**
-
-```bash
-sudo apt update
-sudo apt install -y openjdk-17-jdk
-java -version
-```
-
-**Компајлирање и покретање једног .java фајла:**
-
-```bash
-javac Datoteka1.java -d out
-java -cp out Datoteka1
-```
