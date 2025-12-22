@@ -9,4 +9,4 @@ git add .
 git commit -m "❄️"
 
 # Пошаљи промене на GitHub (или други remote)
-git push github main
+git push
