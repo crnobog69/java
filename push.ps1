@@ -1,5 +1,5 @@
 Write-Output "Running push.ps1"
-ruby ctomd.rb
+ruby jtomd.rb
 git add .
 git commit -m "❄️"
 git push
